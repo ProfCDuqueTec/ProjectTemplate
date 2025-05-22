@@ -22,4 +22,4 @@ This is a reusable C++ project template for VS Code, complete with CMake, CI, an
 4. Enjoy coding!
 
 ## Download
-[my_cpp_template.zip](../my_cpp_template.zip)
+[my_cpp_template.zip](my_cpp_template.zip)
