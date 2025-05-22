@@ -1,0 +1,7 @@
+/build/
+/.vscode/
+/devcontainer/
+/third_party/
+/cmake/
+/*.exe
+/*.obj
